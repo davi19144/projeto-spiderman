@@ -1,0 +1,130 @@
+/* PARTE DESKTOP*/
+
+body {
+   background-color: #000;
+   color: #fff;
+}
+
+.cabecalho {
+   display: flex;
+   align-items: center;
+   background-color: #000;
+   padding: 0 15px;
+   justify-content: space-between;
+   align-items: center;
+   font-size: 22px;
+}
+
+a {
+   text-decoration: none;
+   color: #fff;
+}
+
+.menu {
+   display: flex;
+   list-style: none;
+   gap: 25px;
+   margin: 0 5px;
+}
+
+nav ul li a:hover{
+   color: brown;
+   transition: .4s;
+}
+
+.logo {
+   display: flex;
+   gap: 5px;
+   cursor: pointer;
+
+}
+
+.logo img {
+   margin: 10px 2px;
+   height: 59px;
+   padding: 10 5px;
+}
+
+hr {
+   margin: 15px;
+}
+
+.home {
+   display: flex;
+   position: relative;
+   min-height: calc(100vh - 80px);
+}
+
+.home::after {
+   content: '';
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   background: linear-gradient(90deg, rgba(0, 0, 0, .85), rgba(0, 0, 0, .7) 35%, transparent 65%);
+}
+
+.home .imagem-fundo {
+   width: 100%;
+   object-fit: cover;
+   box-shadow: 0 0 80px 10px #ffffff0a;
+}
+
+h1 {
+   position: absolute;
+   top: 40%;
+   left: 5%;
+   z-index: 1;
+   font-size: 50px;
+   font-family: 'Poppins';
+}
+
+h2{
+   padding: 80px 4%;
+   text-align: center;
+   font-size: 43px;
+   font-family: 'Poppins', sans-serif;
+}
+
+.imagem-hq{
+   float:left;
+   margin-right:auto;
+   border-radius: 50px;
+   justify-content: center;
+   margin: 10px;
+}
+
+.txt-descricao-1{
+   text-align: center;
+   align-items: center;
+   font-size: 28px;
+   justify-content: center;
+   padding: 150px;   
+   text-align: right;
+}
+
+/*SEÇÃO HOMEM-ARANHA HQ*/
+
+section.homem-aranha-hq{
+   box-shadow: 0 0 80px 10px #ffffff0a;
+}
+
+/*SEÇÃO HOMEM-ARANHA 1994*/
+
+.aranha-1994{
+   text-align: center;
+   padding: 80px 4%;
+}
+
+.homem-aranha-1994{
+   float: right;
+   border-radius: 50px;
+}
+
+.txt-descricao-2{
+   text-align:left;
+      font-size: 28px;
+      justify-content: center;
+      padding: 150px;
+}
+
+/*JOGO MARVEL-SPIDER-MAN 2*/
