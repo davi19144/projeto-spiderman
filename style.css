@@ -151,3 +151,19 @@ section.homem-aranha-jogo{
    text-align: right;
 }
 
+/*RODAPÉ DO SITE*/
+.rodape{
+   box-shadow: 0 0 80px 10px #ffffff0a;
+   padding: 40px 4%;
+}
+
+.rodape .barra{
+   margin-inline: 20rem;
+   margin-top: 80px;
+}
+
+.rodape p{
+   margin-top: 55px;
+   text-align:center;
+   font-size: 20px;
+}

@@ -6,11 +6,10 @@ Este projeto é uma Landing Page Fan do Homem Aranha. Onde será contado as melh
 
 ## TECNOLOGIAS USADAS NO PROJETO:
 
-### AS TECNOLOGIAS USADAS ATÉ O MOMENTO SÃO:
+### AS TECNOLOGIAS USADAS NO PROJETO:
 
 #### HTML;
 #### CSS;
-#### E SERÁ ACRESCENTADO O JAVASCRIPT MAIS PRA FRENTE.
 
 ## CARACTERÍSTICAS QUE POSSUI:
 
@@ -20,4 +19,4 @@ Este projeto é uma Landing Page Fan do Homem Aranha. Onde será contado as melh
 
 ## CONTATO: 
 
-Se curtiu o projeto e deseja tirar dúvidas sobre o projeto desenvolvido ou quer desenvolver uma LANDING PAGE parecida com essa? Entre em contato com esse E-Mail: davimartins1914@gmail.com
+ Se curtiu o projeto e deseja tirar dúvidas sobre o projeto desenvolvido ou quer desenvolver uma LANDING PAGE parecida com essa? Entre em contato com esse E-Mail: davimartins1914@gmail.com
