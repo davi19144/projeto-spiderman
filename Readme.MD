@@ -13,9 +13,9 @@ Este projeto é uma Landing Page Fan do Homem Aranha. Onde será contado as melh
 
 ## CARACTERÍSTICAS QUE POSSUI:
 
- • É documentado os minimos detalhes do surgimento do traje;
- • O usuário consegue interagir com a foto do herói;
- • Possui detalhes específicios para aprofundar na história do herói.
+#### • É documentado os minimos detalhes do surgimento do traje;
+#### • O usuário consegue interagir com a foto do herói;
+#### • Possui detalhes específicios para aprofundar na história do herói.
 
 ## CONTATO: 
 
