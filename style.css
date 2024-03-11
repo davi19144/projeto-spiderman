@@ -28,7 +28,7 @@ a {
 }
 
 nav ul li a:hover{
-   color: brown;
+   color: rgb(84, 30, 211);
    transition: .4s;
 }
 
@@ -91,6 +91,7 @@ h2{
    border-radius: 50px;
    justify-content: center;
    margin: 10px;
+   padding-left: 25px;
 }
 
 .txt-descricao-1{
@@ -111,20 +112,42 @@ section.homem-aranha-hq{
 /*SEÇÃO HOMEM-ARANHA 1994*/
 
 .aranha-1994{
-   text-align: center;
    padding: 80px 4%;
 }
 
 .homem-aranha-1994{
    float: right;
    border-radius: 50px;
+   margin-right: 35px;
 }
 
 .txt-descricao-2{
-   text-align:left;
-      font-size: 28px;
-      justify-content: center;
-      padding: 150px;
+   font-size: 28px;
+   justify-content: center;
+   padding: 150px;
+   margin-left: 55px;
 }
 
 /*JOGO MARVEL-SPIDER-MAN 2*/
+section.homem-aranha-jogo{
+   box-shadow: 0 0 80px 10px #ffffff0a;
+   padding: 20px 4%;
+}
+
+.imagem-homem-aranha-jogo{
+   float: left;
+   border-radius: 50px;
+   margin-right: auto;
+   justify-content: center;
+   margin: 10px;
+   padding-left: 25px;
+}
+
+.txt-descricao-3{
+   justify-content: center;
+   padding: 150px;
+   margin-right: 15px;
+   font-size: 26px;
+   text-align: right;
+}
+
